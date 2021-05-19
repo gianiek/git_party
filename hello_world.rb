@@ -12,7 +12,7 @@ Git Status
 Git Log
 
 # step 4
-Make a Change
+Make a Change - "GK Change"
 Git status
 Git add .
 Git commit -m "First Commit"
@@ -20,7 +20,7 @@ git push origin main --force
 Git log
 
 # step 5
-Make a Second Change
+Make a Second Change -- "GK Change 2"
 Git status
 Git add .
 Git status
